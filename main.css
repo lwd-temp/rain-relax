@@ -68,7 +68,7 @@ img {
 img:hover {
     transition: all 0.3s ease-in-out;
     cursor: pointer;
-    transform: rotate(-8deg);
+    transform: scale(1.2) translateY(-10px);
 }
 
 #logo {
@@ -78,5 +78,5 @@ img:hover {
 
 #logo:hover {
     transition: all 0.2s ease-in-out;
-    transform: rotate(-5deg);
+    transform: rotate(-8deg);
 }
